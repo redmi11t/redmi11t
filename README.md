@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-.<br><br>🔭 I’m currently working on<br>Data-driven projects using Python and Machine Learning, focused on solving real-world problems.<br><br>👯 I’m looking to collaborate on<br>Open-source projects in data analysis and ML applications with clear logic and measurable impact.<br><br>🤝 I’m looking for help with<br>Improving ML model performance, feature engineering, and efficient evaluation techniques.<br><br>🌱 I’m currently learning<br>Advanced Machine Learning, Deep Learning with PyTorch and TensorFlow, and model optimization.<br><br>💬 Ask me about<br>Python, Machine Learning fundamentals, Deep Learning basics, SQL, and DSA.<br><br>⚡ Fun fact<br>I trust clean data more than complex models.
+<br><br>🔭 I’m currently working on<br>Data-driven projects using Python and Machine Learning, focused on solving real-world problems.<br><br>👯 I’m looking to collaborate on<br>Open-source projects in data analysis and ML applications with clear logic and measurable impact.<br><br>🤝 I’m looking for help with<br>Improving ML model performance, feature engineering, and efficient evaluation techniques.<br><br>🌱 I’m currently learning<br>Advanced Machine Learning, Deep Learning with PyTorch and TensorFlow, and model optimization.<br><br>💬 Ask me about<br>Python, Machine Learning fundamentals, Deep Learning basics, SQL, and DSA.<br><br>⚡ Fun fact<br>I trust clean data more than complex models.
 
 
 ## 🌐 Socials:
